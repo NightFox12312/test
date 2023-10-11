@@ -1,0 +1,10 @@
+joblib
+matplotlib
+numpy
+pandas
+python-binance
+ta
+tabulate
+plotly
+pandas_ta
+taew
